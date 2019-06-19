@@ -1,0 +1,3 @@
+
+${AnsiColor.GREEN}:: Senior Registry :: Running Spring Boot ${spring-boot.version} ::
+:: https://www.senior.com.br ::${AnsiColor.DEFAULT}
